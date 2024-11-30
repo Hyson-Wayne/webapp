@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hyson Design - DevOps, UI/UX, & Development Solutions</title>
+    <title>Hyson Design - DevOps, UI/UX, and Development Solutions</title>
     <style>
         /* Global Styling */
         body {
